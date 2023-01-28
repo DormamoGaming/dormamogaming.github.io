@@ -28,7 +28,7 @@ img_lottie_animation = Image.open("images/Assassins Creed Odyssey_lottie_animati
 # ---- HEADER SECTION ----
 with st.container():
     st.subheader("Hi, I am Priyanshu :wave:")
-    st.title("world's best gamer")
+    st.title("A Gamer From India")
     st.write("I Am passionate about playing different types of games")
     st.write("[Learnmore >](https://www.youtube.com/channel/UCD8pWrQ9PyNDKuFVrWpdgCA)")
 
